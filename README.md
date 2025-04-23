@@ -10,3 +10,4 @@ Questo progetto è un sito web per un'agenzia di viaggi. Fornisce informazioni s
 - CSS
 - JavaScript
 - PHP
+- Bootstrap
